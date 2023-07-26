@@ -5,4 +5,4 @@ Ned Niryo 2 project for use in retail shops for picking objects off of desk/shel
 
 -Uses Cv2 for image processing and can identify and distinguish objects based on color, contour, shape and area.
 
-
+-controls the robot using ros wrapper
